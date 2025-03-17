@@ -81,6 +81,7 @@ main {
   border-radius: 1rem;
   box-sizing: border-box;
   padding: 2rem;
+  box-shadow: 0 10px 40px rgba(94, 58, 122, 0.2);
 }
 
 .faq-header {
@@ -92,6 +93,7 @@ main {
 
   h1 {
     font-size: 3rem;
+    font-weight: 700;
     margin: 0;
     color: var(--Dark-purple);
   }
