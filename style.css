@@ -147,14 +147,8 @@ main {
   transition: max-block-size 300ms;
 }
 
-.faq-answer.open {
-  max-block-size: 300px;
-}
 
 .hide {
   display: none;
 }
 
-.show {
-  display: block;
-}
